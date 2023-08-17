@@ -1,3 +1,3 @@
 module otus_go_basic
 
-go 1.20
+go 1.21
